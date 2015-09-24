@@ -4,8 +4,8 @@ Plugin Name: WP Never Log Out
 Plugin URI: http://www.themightymo.com
 Description: Keeps you logged in for 40+ years (or until your cookie is removed from your browser).
 Version: 1.0
-Author: Toby Cryns
-Author URI: http://www.tobycryns.com
+Author: The Mighty Mo! Design Co. LLC
+Author URI: http://www.themightymo.com
 */
 
 
